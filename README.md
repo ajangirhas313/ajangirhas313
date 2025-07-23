@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hai, saya Ajang Irhas Rifai 👋
 
-<!--
-**ajangirhas313/ajangirhas313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang software developer yang bersemangat dalam pengembangan aplikasi.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Cara Menghubungi Saya:
+- **LinkedIn**: https://linkedin.com/in/ajangirhas313
+- **Email**: ajangirhas@gmail.com
+
+---
+
+### 💻 Bahasa & Teknologi yang Saya Gunakan:
+
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,go,git,mysql,postgresql)
+---
+
+### 📊 Statistik GitHub Saya
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajangirhas313&layout=compact&theme=tokyonight)

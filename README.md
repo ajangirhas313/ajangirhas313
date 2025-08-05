@@ -12,7 +12,7 @@ Saya seorang software developer yang bersemangat dalam pengembangan aplikasi.
 
 ### 💻 Bahasa & Teknologi yang Saya Gunakan:
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,go,git,mysql,postgresql)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,mysql,postgresql)
 ---
 
 ### 📊 Statistik GitHub Saya
